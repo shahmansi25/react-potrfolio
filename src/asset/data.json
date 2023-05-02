@@ -1,0 +1,55 @@
+{
+    "projects": [
+      {
+        "date": "1/4/2023",
+        "title": "Crypto app",
+        "description": "This is the crypto React application getting data from 3rd party API using Axios, Use Chart js for showing the charts of cryptocoin progress",
+        "url": "https://react-crypto-app-one-nu.vercel.app",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGkcnR-mbkHgTT4KH44ZwtiCA1E-MZBQZK7KK1gy4&s"
+      },
+  
+      {
+        "date": "7/4/2023",
+        "title": "REACT CART (Redux Toolkit)",
+        "description": "This is simple shopping cart application using react state management library redux and redux-toolkit.",
+        "url": "https://redux-cart-smoky.vercel.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "7/4/2023",
+        "title": "REACT CART (Context API)",
+        "description": "This is simple shopping cart application using context api and useReducer hook of the react",
+        "url": "https://shopping-cart-context-api.vercel.app/",
+        "imgSrc": "https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg"
+      },
+
+      
+      {
+        "date": "10/4/2023",
+        "title": "PORTFOLIO",
+        "description": "This is react portfolio website which describe my work, experience and skills ",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ],
+    "experience": [
+      {
+      "company": "Publicis Sapient",
+      "start_date": "12.08.2021",
+      "end_date": "3.02.2023",
+      "role":"Sr.Software Developer"
+      },
+      {
+        "company": "esparkBiz",
+        "start_date": "1.08.2019",
+        "end_date": "12.08.2021",
+        "role":"Software Developer"
+        },
+        {
+          "company": "esparkBiz",
+          "start_date": "1.01.2018",
+          "end_date": "1.08.2019",
+          "role":"Trainee Software Developer"
+          }
+  ]
+  }
